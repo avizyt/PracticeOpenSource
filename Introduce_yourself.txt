@@ -1,0 +1,12 @@
+========================Format to Introduce Yourself=========================
+
+Add your intro like this
+If you are in DataScience write 1 otherwise 0
+and same for WebDev.
+
+Do as the example.
+
+
+id, Name, Age, Mother_tongue, 1st_Programimg_lang, 2nd_programming_lang, Experience_in_months, DataScience, WebDev, twitter_followers
+
+1, John Doe, 25, English, Java, Python, 24, 0, 1, 1250
